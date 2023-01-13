@@ -1,0 +1,5 @@
+-  Hi, I’m Noyal David
+-  Creating a world where things can be done through thinking 
+- 🌱 I’m currently learning and implementing what I have learned in real life.
+- 💞️ I’m looking to collaborate on AI
+- 📫 I'm all open for your suggestions at noyaldavid7@gmail.com
