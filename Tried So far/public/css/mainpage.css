@@ -1,0 +1,70 @@
+
+main h1 {
+text-align: center;
+color: rgb(238, 164, 80);
+font-size: 3rem;
+}
+
+#foodreview {
+width: 80%;
+margin: 2rem auto;
+}
+
+#foodreview ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.product-preview {
+    background-color: rgb(228, 206, 182);
+    border-radius: 6px;
+    overflow: hidden;
+    
+}
+
+.product-preview img{
+    height: 15rem;
+    width: 100%;
+    object-fit: cover;
+}
+
+.product-preview h2{
+margin: 0 0 1rem 0;
+}
+
+.Preview-content{
+    padding: 1rem;
+    text-align: center;
+    font-size: 200%;
+}
+
+.btn{
+    background-color: rgb(228, 157, 44);
+    color: white;
+    border-radius: 7px;
+    padding: 0.5rem 1.5rem;
+}
+
+.btn:hover{
+    border-radius: 30px;
+    background-color: rgb(94, 54, 8);
+}
+
+@media (max-width:48rem){
+
+    main h1{
+        font-size: 1.5rem;
+        
+    }
+    #foodreview ul {
+        grid-template-columns: 100%;
+    }
+
+   
+}
+
+
