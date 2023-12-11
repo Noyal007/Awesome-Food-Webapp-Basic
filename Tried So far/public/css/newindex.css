@@ -1,0 +1,11 @@
+div{
+    display: grid;
+    place-items: center;
+    font-size: 2rem;
+    color: rgb(238, 164, 80);
+}
+
+.logo{
+width: 400px;
+height: 400px;
+}
